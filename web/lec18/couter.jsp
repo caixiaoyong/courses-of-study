@@ -12,7 +12,7 @@
 </head>
 <body>
 <h3>欢迎光临本站</h3>
-<%! int online_user=100;%>
+<%! int online_user=101;%>
 <p>你好，你是网站的第<%=++online_user%>位顾客！</p>
 </body>
 </html>
